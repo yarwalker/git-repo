@@ -1,1 +1,3 @@
 http://office.throne-bms.com/pro/lk/#/confirm_user_email?evk=FXFAXNX02P6g&email=dobryakova+test123@throne-bms.com
+
+print('Hello')
