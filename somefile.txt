@@ -1,7 +1,8 @@
 http://office.throne-bms.com/pro/lk/#/confirm_user_email?evk=FXFAXNX02P6g&email=dobryakova+test123@throne-bms.com
 
-print('Hello')
+print('Hello;')
 
-print('Good day')
-print('Good afternoon')
-print('Good evening')
+print('Good day;')
+print('Good afternoon;')
+print('Good evening;')
+print('Hello pal;')
